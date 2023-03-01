@@ -10,7 +10,6 @@ csv: https://drive.google.com/file/d/183hSVBunisGThBhuGQTKraJoKnn4Mkcb/view?usp=
     dataset_for_analyst_assigment
     Note -> check directory in the ipynb
 
-![Screenshot 2023-03-01 at 4.48.05 PM.png](..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2Ffk%2Fs8mf0b65795dvqw4tzl5z_kh0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_2iVjJK%2FScreenshot%202023-03-01%20at%204.48.05%20PM.png)
 
 Libraries: requirements.txt
 
